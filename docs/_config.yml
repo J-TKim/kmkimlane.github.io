@@ -106,7 +106,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
-
+    - label: "Notion"
+      icon: "/assets/images/TEST/notion.png"
+      url : "https://www.notion.so/kmkimlane-s-NOTION-d4900f9cb5274db99d39b358f7a0740a"
+      
 
 # Site Footer
 footer:
